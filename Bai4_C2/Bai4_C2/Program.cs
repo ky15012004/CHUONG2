@@ -8,6 +8,7 @@ namespace Bai4_C2
 {
     class Program
     {
+        //commit lan3
         static void Main(string[] args)
         {
             List<string> Students_224 = new List<string>();
