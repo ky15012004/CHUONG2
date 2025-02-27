@@ -8,6 +8,7 @@ namespace Bai2_C2
 {
     class Program
     {
+        //commit lan 3
         enum Animal_224
         {
             Cat,
