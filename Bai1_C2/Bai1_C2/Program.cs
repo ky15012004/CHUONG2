@@ -8,6 +8,7 @@ namespace Bai1_C2
 {
     class Program
     {
+        // commit lan3
         public static int TinhTong(int a_224, int b_224 = 10)
         {
             return a_224+b_224;
