@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\bin\Debug\Bai4_C2.exe.config
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\bin\Debug\Bai4_C2.exe
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\bin\Debug\Bai4_C2.pdb
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\obj\Debug\Bai4_C2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\obj\Debug\Bai4_C2.exe
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\obj\Debug\Bai4_C2.pdb
+C:\Users\Admin\source\repos\Bai4_C2\Bai4_C2\obj\Debug\Bai4_C2.csproj.AssemblyReference.cache
